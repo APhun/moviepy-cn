@@ -12,12 +12,12 @@ MoviePy是一个用于视频编辑的Python模块，它可被用于一些基本�
 - 脚本示例
 - Moviepy Docker
 - 你想安装OpenCV 2.4.6？
-- 常见问题解答与排除错误
+- 常见问题解答与错误排除
 - 高级工具
 - 参考手册
 
 ## 贡献
-MoviePy是一个开源软件，原作者为@Zulko ，并根据MIT licence发行。它可以在Windows、Mac和Linux环境中以Python2或Python3运行。代码托管于[Github](https://github.com/Zulko/moviepy)，你可以在此提交改进、报告bug及寻求帮助。在[Reddit](https://www.reddit.com/r/moviepy/)上有MoviePy的论坛，在[librelist](moviepy%40librelist.com)上也有邮件列表。
+MoviePy是一个开源软件，原作者为[Zulko](https://github.com/Zulko) ，并根据MIT licence发行。它可以在Windows、Mac和Linux环境中以Python2或Python3运行。代码托管于[Github](https://github.com/Zulko/moviepy)，你可以在此提交改进、报告bug及寻求帮助。在[Reddit](https://www.reddit.com/r/moviepy/)上有MoviePy的论坛，在[librelist](moviepy%40librelist.com)上也有邮件列表。
 
 ## 汉化说明
-此汉化版本由@APhun @Uuuuki @Fani1996 共同维护。
+此汉化版本由[APhun](https://github.com/APhun) [Uuuuki](https://github.com/Uuuuki) [Fan Xiao](https://github.com/fani1996) 共同维护。
