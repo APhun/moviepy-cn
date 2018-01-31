@@ -6,8 +6,8 @@ MoviePy是一个用于视频编辑的Python模块，它可被用于一些基本�
 ![](http://zulko.github.io/moviepy/_images/demo_preview1.jpeg)
 
 ## 用户手册
-- 下载与安装
-- MoviePy入门
+- [下载与安装](https://github.com/APhun/moviepy-cn/tree/master/下载与安装)
+- [MoviePy入门](https://github.com/APhun/moviepy-cn/tree/master/MoviePy入门)
 - 作品展示
 - 脚本示例
 - Moviepy Docker
