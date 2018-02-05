@@ -1,10 +1,10 @@
 ## 如何更有效率地使用MoviePy
-这一节汇集了一些贴士和诀窍，可以帮助你充分利用全球范围内已知的经验来使用MoviePy。
+这一节总结了一些技巧和诀窍，可以帮助你充分利用全球范围内已知的经验来使用MoviePy。
 
-使用IPython Notebook是使用MoviePy的最好方法。它使得预览剪辑变得很容易（在此节下会介绍到），有自动完成功能，而且可以显示库里不同方法的文档。
+使用IPython Notebook是使用MoviePy的最好方法。它使得预览剪辑变得很容易（在此节中会介绍到），有自动完成功能，而且可以显示库里不同方法的文档。
 
 ### 我应该使用`moviepy.editor`吗？
-这篇文档里的大部分示例使用了`moviepy.editor`子模块，但是这个子模块并不适用于所有需求。所以应该用吗？简单来说，如果你使用MoviePy手动编辑视频，那就使用；如果你在更大的库、更大的项目或web服务器上使用MoviePy，最好避免使用它，转而加载你需要的函数。
+这篇文档里的大部分示例使用了`moviepy.editor`子模块，但是这个子模块并不适用于所有需求。简单来说，如果你使用MoviePy手动编辑视频，那就建议使用此子模块；如果你在更大的库、更大的项目或web服务器上使用MoviePy，最好避免使用它，转而加载你需要的函数。
 
 `moviepy.editor`模块能以以下三种方式加载：
 ```python
@@ -52,6 +52,7 @@ my_audio_clip.preview(fps=22000)
 使用IPython Notebook来显示剪辑很实用，尤其是你不想用`clip.show()`和`clip.preview()`时。看起来就像这样：
 
 ![](http://zulko.github.io/moviepy/_images/demo_preview.jpeg)
+
 通过使用`ipython_display`，你可以从文件或直接从片段里潜入视频、图片或声音：
 ```python
 ipython_display(my_video_clip) # embeds a video
