@@ -8,5 +8,5 @@
 - [如何更有效率地使用MoviePy](https://github.com/APhun/moviepy-cn/blob/master/MoviePy入门/如何更有效率地使用MoviePy.md)
 - [使用matplotlib](https://github.com/APhun/moviepy-cn/blob/master/MoviePy入门/使用matplotlib.md)
 - [MoviePy的音频操作](https://github.com/APhun/moviepy-cn/blob/master/MoviePy入门/MoviePy的音频操作.md)
-- [生成与导出视频剪辑](https://github.com/APhun/moviepy-cn/blob/master/MoviePy入门/生成和导出视频剪辑.md)
+- [生成与导出视频剪辑](https://github.com/APhun/moviepy-cn/blob/master/MoviePy入门/生成与导出视频剪辑.md)
 
