@@ -10,7 +10,7 @@
 - [以绘画效果冻结帧](https://github.com/APhun/moviepy-cn/blob/master/脚本示例/以绘画效果冻结帧.md)
 - [根据图片放置剪辑](https://github.com/APhun/moviepy-cn/blob/master/脚本示例/根据图片放置剪辑.md)
 - [带有动态阴影效果的MoviePy的logo](https://github.com/APhun/moviepy-cn/blob/master/脚本示例/带有动态阴影效果的MoviePy的logo.md)
-- [人脸跟踪与模糊](https://github.com/APhun/moviepy-cn/blob/master/脚本示例/人脸跟踪与模糊.md)
+- [人脸追踪与模糊](https://github.com/APhun/moviepy-cn/blob/master/脚本示例/人脸追踪与模糊.md)
 - [快捷方式](https://github.com/APhun/moviepy-cn/blob/master/脚本示例/快捷方式.md)
 - [视频中的重复字符](https://github.com/APhun/moviepy-cn/blob/master/脚本示例/视频中的重复字符.md)
 - [结尾特效](https://github.com/APhun/moviepy-cn/blob/master/脚本示例/结尾特效.md)
