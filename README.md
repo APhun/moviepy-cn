@@ -9,7 +9,7 @@ MoviePy是一个用于视频编辑的Python模块，它可被用于一些基本�
 - [下载与安装](https://github.com/APhun/moviepy-cn/tree/master/下载与安装)
 - [MoviePy入门](https://github.com/APhun/moviepy-cn/tree/master/MoviePy入门)
 - 作品展示
-- 脚本示例
+- [脚本示例](https://github.com/APhun/moviepy-cn/tree/master/脚本示例)
 - Moviepy Docker
 - 你想安装OpenCV 2.4.6？
 - 常见问题解答与错误排除
