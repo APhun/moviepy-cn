@@ -1,17 +1,20 @@
 # moviepy-cn
 
+</br>
+</br>
+
 MoviePy是一个用于视频编辑的Python模块，它可被用于一些基本操作（如剪切、拼接、插入标题）、视频合成（即非线性编辑）、视频处理和创建高级特效。它可对大多数常见视频格式进行读写，包括GIF。
 
 示例如下（IPython Notebook环境）<br>
 ![](http://zulko.github.io/moviepy/_images/demo_preview1.jpeg)
 
 ## 用户手册
-- [下载与安装](https://github.com/APhun/moviepy-cn/tree/master/下载与安装)
-- [MoviePy入门](https://github.com/APhun/moviepy-cn/tree/master/MoviePy入门)
+- [下载与安装](https://github.com/APhun/moviepy-cn/tree/master/1_下载与安装)
+- [MoviePy入门](https://github.com/APhun/moviepy-cn/tree/master/2_MoviePy入门)
 - 作品展示
-- [脚本示例](https://github.com/APhun/moviepy-cn/tree/master/脚本示例)
-- Moviepy Docker
-- 你想安装OpenCV 2.4.6？
+- [脚本示例](https://github.com/APhun/moviepy-cn/tree/master/4_脚本示例)
+- [Moviepy Docker](https://github.com/APhun/moviepy-cn/tree/master/5_Moviepy Docker)
+- [听说你想安装OpenCV 2.4.6？](https://github.com/APhun/moviepy-cn/tree/master/6_听说你想安装OpenCV 2.4.6)
 - 常见问题解答与错误排除
 - 高级工具
 - 参考手册
