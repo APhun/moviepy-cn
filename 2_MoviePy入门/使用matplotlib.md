@@ -1,8 +1,10 @@
 ## 使用matplotlib
+
 ### 自定义动画
 MoviePy提供了一种生成自定义动画的方式：通过定义一个函数，以numpy数组的形式返回一个在给定的时间内一帧的动画。
 
 例如，在如下的工作流中：
+
 ```python
 from moviepy.editor import VideoClip
 
@@ -13,7 +15,9 @@ def make_frame(t):
 
 animation = VideoClip(make_frame, duration=3) # 3-second clip
 ```
+
 这个动画可以像通常一样导出：
+
 ```python
 # export as a video file
 animation.write_videofile("my_animation.mp4", fps=24)
@@ -22,7 +26,9 @@ animation.write_gif("my_animation.gif", fps=24) # usually slower
 ```
 
 ### matplotlib的简易实例
+
 一个使用matplotlib的动画实例如下：
+
 ```python
 import matplotlib.pyplot as plt
 import numpy as np
@@ -46,6 +52,7 @@ animation.write_gif('matplotlib.gif', fps=20)
 
 ### 在Jupyter Notebook中运行
 如果你在Jupyter Notebook中运行，你可以体会到用*ipython_display*方法将视频剪辑嵌入在输出单元中的优势。示例如下：
+
 ```python
 import matplotlib.pyplot as plt
 import numpy as np
