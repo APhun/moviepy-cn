@@ -50,15 +50,3 @@ licence发行。它可以在Windows、Mac和Linux环境中以Python2或Python3�
 .. _Fan Xiao: https://github.com/fani1996
 
 .. |image0| image:: http://zulko.github.io/moviepy/_images/demo_preview1.jpeg
-
-.. sidebar::
-
-   下载与安装
-   MoviePy入门
-   作品展示
-   脚本示例
-   MoviePy Docker
-   听说你想安装OpenCV 2.4.6
-   常见问题及其解决方法
-   高级工具
-   参考手册
