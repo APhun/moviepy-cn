@@ -6,6 +6,7 @@
 MoviePy中文手册
 ==========
 
+
 MoviePy是一个用于视频编辑的Python模块，它可被用于一些基本操作（如剪切、拼接、插入标题）、视频合成（即非线性编辑）、视频处理和创建高级特效。它可对大多数常见视频格式进行读写，包括GIF。
 
 示例如下（IPython Notebook环境） |image0|
@@ -13,15 +14,22 @@ MoviePy是一个用于视频编辑的Python模块，它可被用于一些基本�
 用户手册
 --------
 
--  `下载与安装`_
--  `MoviePy入门`_
--  作品展示
--  `脚本示例`_
--  `Moviepy Docker`_
--  `听说你想安装OpenCV 2.4.6`_
--  `常见问题及其解决`_
--  高级工具
--  `参考手册`_
+.. toctree::
+    :maxdepth: 2
+    :glob:
+    
+    1_下载与安装/index
+    2_MoviePy入门/index
+    3_作品展示/index
+    4_脚本示例/index
+    5_MoviePy Docker/index
+    6_听说你想安装OpenCV 2.4.6/index
+    7_常见问题及其解决/index
+    8_高级工具/index
+    9_参考手册/index
+  
+
+
 
 贡献
 ----
@@ -34,13 +42,6 @@ licence发行。它可以在Windows、Mac和Linux环境中以Python2或Python3�
 
 此汉化版本由 `APhun`_\ 、\ `Uuuuki`_ 和 `Fan Xiao`_ 共同维护。
 
-.. _下载与安装: https://github.com/APhun/moviepy-cn/tree/master/1_下载与安装
-.. _MoviePy入门: https://github.com/APhun/moviepy-cn/tree/master/2_MoviePy入门
-.. _脚本示例: https://github.com/APhun/moviepy-cn/tree/master/4_脚本示例
-.. _Moviepy Docker: https://github.com/APhun/moviepy-cn/tree/master/5_MoviePy%20Docker
-.. _听说你想安装OpenCV 2.4.6: https://github.com/APhun/moviepy-cn/tree/master/6_%E5%90%AC%E8%AF%B4%E4%BD%A0%E6%83%B3%E5%AE%89%E8%A3%85OpenCV%202.4.6
-.. _常见问题及其解决: https://github.com/APhun/moviepy-cn/tree/master/7_%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E5%8F%8A%E5%85%B6%E8%A7%A3%E5%86%B3
-.. _参考手册: https://github.com/APhun/moviepy-cn/tree/master/9_%E5%8F%82%E8%80%83%E6%89%8B%E5%86%8C
 .. _Zulko: https://github.com/Zulko
 .. _Github: https://github.com/Zulko/moviepy
 .. _Reddit: https://www.reddit.com/r/moviepy/

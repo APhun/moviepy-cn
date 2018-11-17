@@ -12,7 +12,7 @@ http://zulko.github.io/moviepy/FAQ.html*
 
 </br>
 
-## 并不是bug的常见错误
+### 并不是bug的常见错误
 
 下面是一些并未被考虑为bug的常见错误（但你依然可以请求改变）。如果这些答案对你并不实用，请在[GitHub](https://github.com/Zulko/moviepy)上提交一个bug报告，或者提交到[Reddit](https://www.reddit.com/r/moviepy/)上专门的论坛，亦或者是[librelist](moviepy%40librelist.com)。
 
