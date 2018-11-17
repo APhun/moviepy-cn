@@ -51,8 +51,7 @@ licence发行。它可以在Windows、Mac和Linux环境中以Python2或Python3�
 
 .. |image0| image:: http://zulko.github.io/moviepy/_images/demo_preview1.jpeg
 
-.. toctree::
-   :maxdepth:2
+.. sidebar::
 
    下载与安装
    MoviePy入门
