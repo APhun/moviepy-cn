@@ -1,7 +1,5 @@
 # moviepy-cn
 
-</br>
-</br>
 
 **本文档地址：https://moviepy-cn.readthedocs.io/zh/latest/**
 
@@ -16,13 +14,13 @@ MoviePy是一个用于视频编辑的Python模块，它可被用于一些基本�
 ## 用户手册
 - [下载与安装](https://github.com/APhun/moviepy-cn/tree/master/1_下载与安装)
 - [MoviePy入门](https://github.com/APhun/moviepy-cn/tree/master/2_MoviePy入门)
-- 作品展示
+- [作品展示](https://github.com/APhun/moviepy-cn/tree/master/3_作品展示)
 - [脚本示例](https://github.com/APhun/moviepy-cn/tree/master/4_脚本示例)
 - [Moviepy Docker](https://github.com/APhun/moviepy-cn/tree/master/5_MoviePy%20Docker)
-- [听说你想安装OpenCV 2.4.6](https://github.com/APhun/moviepy-cn/tree/master/6_%E5%90%AC%E8%AF%B4%E4%BD%A0%E6%83%B3%E5%AE%89%E8%A3%85OpenCV%202.4.6)
-- [常见问题及其解决](https://github.com/APhun/moviepy-cn/tree/master/7_%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E5%8F%8A%E5%85%B6%E8%A7%A3%E5%86%B3)
-- 高级工具
-- [参考手册](https://github.com/APhun/moviepy-cn/tree/master/9_%E5%8F%82%E8%80%83%E6%89%8B%E5%86%8C)
+- [听说你想安装OpenCV 2.4.6](https://github.com/APhun/moviepy-cn/tree/master/6_听说你想安装OpenCV%202.4.6)
+- [常见问题及其解决](https://github.com/APhun/moviepy-cn/tree/master/7_常见问题及其解决)
+- [高级工具](https://github.com/APhun/moviepy-cn/tree/master/8_高级工具)
+- [参考手册](https://github.com/APhun/moviepy-cn/tree/master/9_参考手册)
 
 </br>
 
