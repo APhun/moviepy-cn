@@ -30,4 +30,4 @@ MoviePy是一个开源软件，原作者为[Zulko](https://github.com/Zulko)，�
 </br>
 
 ## 汉化说明
-此汉化版本由 [APhun](https://github.com/APhun)、[WYR](https://github.com/Eukky) 和 [Fan Xiao](https://github.com/fani1996) 共同维护。
+此汉化版本由 [APhun](https://github.com/APhun)、[WYR](https://github.com/Eukky)和 [Fan Xiao](https://github.com/fani1996) 共同维护。
