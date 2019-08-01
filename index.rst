@@ -40,14 +40,14 @@ licence发行。它可以在Windows、Mac和Linux环境中以Python2或Python3�
 汉化说明
 --------
 
-此汉化版本由 `APhun`_\ 、\ `Uuuuki`_ 和 `Fan Xiao`_ 共同维护。
+此汉化版本由 `APhun`_\ 、\ `WYR`_ 和 `Fan Xiao`_ 共同维护。
 
 .. _Zulko: https://github.com/Zulko
 .. _Github: https://github.com/Zulko/moviepy
 .. _Reddit: https://www.reddit.com/r/moviepy/
 .. _librelist: moviepy%40librelist.com
 .. _APhun: https://github.com/APhun
-.. _Uuuuki: https://github.com/Uuuuki
+.. _Uuuuki: https://github.com/Eukky
 .. _Fan Xiao: https://github.com/fani1996
 
 .. |image0| image:: http://zulko.github.io/moviepy/_images/demo_preview1.jpeg
